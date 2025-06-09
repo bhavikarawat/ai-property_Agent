@@ -1,0 +1,269 @@
+{
+  "meta": {
+    "total": 698,
+    "per_page": 21,
+    "current_page": 2,
+    "last_page": 34,
+    "first_page": 1,
+    "first_page_url": "/?page=1",
+    "last_page_url": "/?page=34",
+    "next_page_url": "/?page=3",
+    "previous_page_url": "/?page=1",
+    "agg_available_billable_unit": 0,
+    "agg_total_billable_unit": 0
+  },
+  "data": [
+    {
+      "id": 2340,
+      "thumbnail": "https://altre-dev.s3.ap-south-1.amazonaws.com/coworking-space-images/2340/thumbnails/Empire_tower_thumbnail_.png",
+      "quoted_rent_per_seat_cost": 40000,
+      "available_billable_unit": 4,
+      "property": {
+        "id": 9381,
+        "name": "Empire Tower",
+        "lat": {
+          "value": 19.1718,
+          "direction": "N"
+        },
+        "long": {
+          "value": 73.0015,
+          "direction": "E"
+        },
+        "thumbnail": "https://altre-dev.s3.ap-south-1.amazonaws.com/property-images/9381/thumbnails/Empire_Tower_Thumbnail.jpg",
+        "full_address": "Navi Mumbai, Mumbai"
+      },
+      "slug": "the-empire-business-centre-empire-tower-navi-mumbai",
+      "number_of_amenities": 7,
+      "total_area_of_centre_sft": 0,
+      "tower_name": "Tower B",
+      "operator": {
+        "operator_name": "The Empire Business Centre",
+        "operator_image": "https://altre-dev.s3.ap-south-1.amazonaws.com/operator-image/6Yk2nNOzE_download.jpg"
+      }
+    },
+    {
+      "id": 2502,
+      "thumbnail": "https://altre-dev.s3.ap-south-1.amazonaws.com/coworking-space-images/2502/thumbnail/npjNNngrP_WorkspacePic1.jpg",
+      "quoted_rent_per_seat_cost": 40000,
+      "available_billable_unit": 250,
+      "property": {
+        "id": 7547,
+        "name": "Bagamane Pallavi Tower",
+        "lat": {
+          "value": 12.9675,
+          "direction": "N"
+        },
+        "long": {
+          "value": 77.5905,
+          "direction": "E"
+        },
+        "thumbnail": "https://altre-dev.s3.ap-south-1.amazonaws.com/property-images/7547/thumbnail/CsvGYciUe_BagamanePallaviTower-Pic1.jpeg",
+        "full_address": "CBD, Bangalore"
+      },
+      "slug": "workspace-bagamane-pallavi-tower-cbd",
+      "number_of_amenities": 7,
+      "total_area_of_centre_sft": 350000,
+      "tower_name": "Main Building",
+      "operator": {
+        "operator_name": "Workspace",
+        "operator_image": "https://altre-dev.s3.ap-south-1.amazonaws.com/operator-image/kPyOGlJ7q_WorkspaceLogo.png"
+      }
+    },
+    {
+      "id": 2334,
+      "thumbnail": "https://altre-dev.s3.ap-south-1.amazonaws.com/coworking-space-images/2334/thumbnails/Parinee_Crescenzo_thumbnail.png",
+      "quoted_rent_per_seat_cost": 39750,
+      "available_billable_unit": 27,
+      "property": {
+        "id": 9071,
+        "name": "Parinee Crescenzo",
+        "lat": {
+          "value": 19.0615,
+          "direction": "N"
+        },
+        "long": {
+          "value": 72.8682,
+          "direction": "E"
+        },
+        "thumbnail": "https://altre-dev.s3.ap-south-1.amazonaws.com/property-images/9071/thumbnails/Parinee_Crescenzo_Thumbnail.jpeg",
+        "full_address": "NEW CBD - BKC, Mumbai"
+      },
+      "slug": "dextrus-parinee-crescenzo-new-cbd-bkc",
+      "number_of_amenities": 7,
+      "total_area_of_centre_sft": 14500,
+      "tower_name": "Tower B",
+      "operator": {
+        "operator_name": "Dextrus",
+        "operator_image": "https://altre-dev.s3.ap-south-1.amazonaws.com/operator-image/ALasCmq2w_Dextrus-Logo.png"
+      }
+    },
+    {
+      "id": 1783,
+      "thumbnail": "https://altre-dev.s3.ap-south-1.amazonaws.com/coworking-space-images/1783/thumbnail/gyv2waEAR_OneTradeTower.jpg",
+      "quoted_rent_per_seat_cost": 38000,
+      "available_billable_unit": 206,
+      "property": {
+        "id": 7530,
+        "name": "Prestige Trade Tower",
+        "lat": {
+          "value": 12.9866,
+          "direction": "N"
+        },
+        "long": {
+          "value": 77.5877,
+          "direction": "E"
+        },
+        "thumbnail": "https://altre-dev.s3.ap-south-1.amazonaws.com/property-images/7530/thumbnail/vpfoU5YwJ_3.png",
+        "full_address": "CBD, Bangalore"
+      },
+      "slug": "ts-suites-prestige-trade-tower-cbd",
+      "number_of_amenities": 7,
+      "total_area_of_centre_sft": 27000,
+      "tower_name": "Main Building",
+      "operator": {
+        "operator_name": "TS Suites",
+        "operator_image": null
+      }
+    },
+    {
+      "id": 2562,
+      "thumbnail": null,
+      "quoted_rent_per_seat_cost": 38000,
+      "available_billable_unit": 20,
+      "property": {
+        "id": 7516,
+        "name": "Brigade WTC Annexe",
+        "lat": {
+          "value": 13.0129,
+          "direction": "N"
+        },
+        "long": {
+          "value": 77.5564,
+          "direction": "E"
+        },
+        "thumbnail": "https://altre-dev.s3.ap-south-1.amazonaws.com/property-images/7516/thumbnail/TCFsABuVU_1.png",
+        "full_address": "CBD, Bangalore"
+      },
+      "slug": "regus-brigade-wtc-annexe-cbd",
+      "number_of_amenities": 7,
+      "total_area_of_centre_sft": 120000,
+      "tower_name": "Main Building",
+      "operator": {
+        "operator_name": "Regus",
+        "operator_image": "https://altre-dev.s3.ap-south-1.amazonaws.com/operator-image/IQ35CO5ns_Logo.jpg"
+      }
+    },
+    {
+      "id": 2564,
+      "thumbnail": null,
+      "quoted_rent_per_seat_cost": 37000,
+      "available_billable_unit": 90,
+      "property": {
+        "id": 7438,
+        "name": "UB City Concord Block",
+        "lat": {
+          "value": 12.9723,
+          "direction": "N"
+        },
+        "long": {
+          "value": 77.5958,
+          "direction": "E"
+        },
+        "thumbnail": "https://altre-dev.s3.ap-south-1.amazonaws.com/property-images/7438/thumbnail/mTvE219CQ_Concorde-Towers-Bangalore-Office-Space.jpg",
+        "full_address": "CBD, Bangalore"
+      },
+      "slug": "regus-ub-city-concord-block-cbd",
+      "number_of_amenities": 7,
+      "total_area_of_centre_sft": 201795,
+      "tower_name": "Concord Block",
+      "operator": {
+        "operator_name": "Regus",
+        "operator_image": "https://altre-dev.s3.ap-south-1.amazonaws.com/operator-image/IQ35CO5ns_Logo.jpg"
+      }
+    },
+    {
+      "id": 1491,
+      "thumbnail": "https://altre-dev.s3.ap-south-1.amazonaws.com/coworking-space-images/1491/thumbnail/wI1nDCbJp_1.jpg",
+      "quoted_rent_per_seat_cost": 37000,
+      "available_billable_unit": 10,
+      "property": {
+        "id": 6869,
+        "name": "Building 5",
+        "lat": {
+          "value": 28.4943,
+          "direction": "N"
+        },
+        "long": {
+          "value": 77.0889,
+          "direction": "E"
+        },
+        "thumbnail": "https://altre-dev.s3.ap-south-1.amazonaws.com/property-images/6869/thumbnail/pfcCKUoLG_1.png",
+        "full_address": "Cyber City, Gurugram"
+      },
+      "slug": "the-executive-centre-building-5-cyber-city",
+      "number_of_amenities": 7,
+      "total_area_of_centre_sft": 30641,
+      "tower_name": "Tower A",
+      "operator": {
+        "operator_name": "The Executive Centre",
+        "operator_image": "https://altre-dev.s3.ap-south-1.amazonaws.com/operator-image/YhcPiHnDK_Logo.png"
+      }
+    },
+    {
+      "id": 2415,
+      "thumbnail": "https://altre-dev.s3.ap-south-1.amazonaws.com/coworking-space-images/2415/thumbnail/hJDHsgwVh_TECBusinessBayYerawada1.jpg",
+      "quoted_rent_per_seat_cost": 36000,
+      "available_billable_unit": 41,
+      "property": {
+        "id": 8196,
+        "name": "Business Bay - Tower A",
+        "lat": {
+          "value": 18.5516,
+          "direction": "N"
+        },
+        "long": {
+          "value": 73.8899,
+          "direction": "E"
+        },
+        "thumbnail": "https://altre-dev.s3.ap-south-1.amazonaws.com/property-images/8196/thumbnail/lmNxjZbAE_4.jpg",
+        "full_address": "Yerawada, Pune"
+      },
+      "slug": "tec-business-bay-tower-a-yerawada",
+      "number_of_amenities": 9,
+      "total_area_of_centre_sft": 45000,
+      "tower_name": "Main Building",
+      "operator": {
+        "operator_name": "TEC",
+        "operator_image": null
+      }
+    },
+    {
+      "id": 1392,
+      "thumbnail": "https://altre-dev.s3.ap-south-1.amazonaws.com/coworking-space-images/1392/thumbnail/vbaGU3uSx_1_b.jpg",
+      "quoted_rent_per_seat_cost": 36000,
+      "available_billable_unit": 40,
+      "property": {
+        "id": 4287,
+        "name": "Thapar House",
+        "lat": {
+          "value": 28.6245,
+          "direction": "N"
+        },
+        "long": {
+          "value": 77.2182,
+          "direction": "E"
+        },
+        "thumbnail": "https://altre-dev.s3.ap-south-1.amazonaws.com/property-images/4287/thumbnail/CRzK3n4Xs_0.png",
+        "full_address": "Connaught Place, Delhi"
+      },
+      "slug": "vatika-business-centre-thapar-house-connaught-place",
+      "number_of_amenities": 7,
+      "total_area_of_centre_sft": 12000,
+      "tower_name": "Main Building",
+      "operator": {
+        "operator_name": "Vatika Business Centre",
+        "operator_image": "https://altre-dev.s3.ap-south-1.amazonaws.com/operator-image/LJQHYIRBo_Logo.png"
+      }
+    }
+  ]
+}
